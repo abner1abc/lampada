@@ -1,1 +1,1 @@
-A simple project made in pure JavaScript, an interactive light bulb animation.
+A simple project of an interactive light bulb.

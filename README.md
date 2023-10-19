@@ -1,3 +1,1 @@
-# lampada 
-
-### Olá, bem vindo ao meu projeto de lampada :)
+A simple project made in pure JavaScript, an interactive light bulb animation.
